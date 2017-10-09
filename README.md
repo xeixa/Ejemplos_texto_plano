@@ -16,7 +16,7 @@ Estos son los pasos a seguir en esta pequeña introducción al módulo:
  Para subir los archivos seguir el siguiente proceso:
   * Crea un repositorio.
   * Marca la casilla **Initialize this repository with a README**.
-  * Subir los archivos con la opcion _UPLOAD FILES_.
+  * Subir los archivos con la opción _UPLOAD FILES_.
 
 #### 4. Uso de Rawgit para observar el resultado de GitHub:  
  * **Abrir el fichero** _Ejemplo_HTML.html_ en el repositorio de _Ejemplos_texto_plano_.
