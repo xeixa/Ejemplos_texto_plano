@@ -7,11 +7,10 @@ Estos son los pasos a seguir en esta pequeña introducción al módulo:
  * _Ejemplo .html_
  * _Ejemplo .xml_
 
-#### 2. Realizar el tutorial **Markdown**:
-
+#### 2. Realizar el tutorial Markdown: 
  Dicho tutorial, está compuesto de ejemplos prácticos en [este enlace](http://www.markdowntutorial.com/)
  
-#### 3. Registro y subida de archivos a **GitHub**:
+#### 3. Registro y subida de archivos a GitHub:
 
  Cualquier usuario puede registrarse [aquí](https://github.com/join)  
  Para subir los archivos seguir el siguiente proceso:
