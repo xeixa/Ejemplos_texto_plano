@@ -2,7 +2,7 @@
 
 Estos son los pasos a seguir en esta pequeña introducción al módulo:
 
-1.## Creación de archivos:  
+1. ## Creación de archivos:  
  * _Ejemplo .rtf_
  * _Ejemplo .html_
  * _Ejemplo .xml_
