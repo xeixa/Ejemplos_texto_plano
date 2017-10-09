@@ -1,2 +1,8 @@
-# Ejemplos_texto_plano
-3 ejemplos de texto plano .rtf, .xml, .html
+#Introduccion al lenguaje de marcas
+
+Estos son los pasos a seguir en esta pequeña introducción al módulo:
+
+1. Creación de documentos:
+ *Ejemplo .rtf
+ *Ejemplo .html
+ *Ejemplo xml
